@@ -10,4 +10,4 @@ if (score >= 90) {//use if here to one condition
     console.log("Your grade is: Fair.");
 } else {
     console.log("Your grade is: Needs Improvement.");
-}//in esle when all off that false it gonna direct here if no else put here there is no out put goons show
+}//in else when all off that false it gonna direct here if no else put here there is no out put goons show
